@@ -10,7 +10,9 @@
 
 1. Compute - Workers and Pages
 2. 新建 Workers
-3. 
+3. 上传`_worker.js`或者编辑粘贴`_worker.js`的代码
+4. 为Workers绑定个域名，国内便可直接访问
+5. 完整的openai兼容断点举例：`https://api.youname.com/v1/chat/completions`
 
 
 ## 风险提示
